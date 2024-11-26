@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${bricolage.variable} ${kalnia.variable} antialiased`}
+        className={`${bricolage.variable} ${kalnia.variable} bg-clr-dark antialiased`}
       >
         <section className="flex flex-col items-center justify-center max-w-[1400px] mx-[100px]">
           {children}

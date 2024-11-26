@@ -10,7 +10,7 @@ export default function Home() {
     //   <button className={`${kalnia.className} bg-clr-light`}>Click me</button>
     // </div>
 
-    <section className="flex flex-col items-center justify-evenly h-screen w-screen bg-gradient-background">
+    <section className="flex flex-col items-center justify-evenly h-screen w-screen ">
       <h3 className={`${bricolage.className} text-sm uppercase text-clr-lightest`}>Isaac DEMEERSEMAN // 2024</h3>
 
       <div className="flex flex-col gap-10 items-center justify-center">

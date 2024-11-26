@@ -22,7 +22,7 @@
     --color-medium: #354F52;
     --color-light: #52796F;
     --color-lighter: #84A98C;
-    --color-lightest: #CAD2C5;
+    --color-lightest: #cad2c5;
     --gradient-background: linear-gradient(135deg, rgba(53,79,82,1) 0%, rgba(47,62,70,1) 100%);
 
     --background: 0 0% 100%;
@@ -87,9 +87,9 @@
 }
 
 
-body {
+/* body {
   background: var(--gradient-background);
-}
+} */
 /* @layer base {
   * {
     @apply border-border;
