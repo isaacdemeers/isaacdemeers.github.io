@@ -12,6 +12,7 @@ export default {
 			colors: {
 
 				clr: {
+					darker: 'var(--color-darker)',
 					dark: 'var(--color-dark)',
 					medium: 'var(--color-medium)',
 					light: 'var(--color-light)',

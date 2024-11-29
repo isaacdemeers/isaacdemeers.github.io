@@ -18,6 +18,7 @@
 
 @layer base {
   :root {
+    --color-darker: #161d27;
     --color-dark: #2F3E46;
     --color-medium: #354F52;
     --color-light: #52796F;
