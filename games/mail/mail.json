@@ -1,0 +1,309 @@
+{
+    "emails": [
+        {
+            "id": 1,
+            "subject": "🔥 Exclusive Black Friday Offer",
+            "sender": "amazon-offers@amazon.com",
+            "date": "2024-01-15",
+            "size": "2.3 MB",
+            "category": "promotion",
+            "shouldDelete": true,
+            "isNewsletter": true,
+            "unsubscribed": false,
+            "content": {
+                "title": "Discover our exceptional offers",
+                "body": "<p>Dear customer,</p><p>Don't miss our exclusive Black Friday offers with up to 70% off on selected items.</p><p>Hurry up!</p><p>Here are some featured deals:</p><ul><li>-50% on electronics</li><li>-40% on fashion and accessories</li><li>-60% on home items</li></ul><p>This year, Black Friday extends over a whole week to let you make the most of it. Our best offers are available in limited quantities, so don't wait!</p><p>As a Prime member, you get priority access to these exceptional offers. Plus, express delivery is free on all your purchases.</p><p>Check out our flash sales:</p><ul><li>1 PM: -70% on smartphones</li><li>3 PM: -65% on laptops</li><li>5 PM: -80% on gaming accessories</li></ul><p>Head over to Amazon.com now to take advantage!</p>",
+                "cta": "View offers"
+            }
+        },
+        {
+            "id": 2,
+            "subject": "📊 Monthly Report - December 2023",
+            "sender": "analytics@linkedin.com",
+            "date": "2024-01-10",
+            "size": "4.7 MB",
+            "category": "professional",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Your monthly report is available",
+                "body": "<p>Hello,</p><p>Your activity report for December is now available.</p><ul><li>+25% profile visits</li><li>15 new connections</li><li>3 job opportunities</li></ul><p>Detailed activity analysis:</p><p>1. Post engagement<br>- AI post: 450 interactions<br>- Technical article: 280 shares<br>- Industry news: 150 comments</p><p>2. Network growth<br>- New followers: +120<br>- Acceptance rate: 85%<br>- Connection quality: 95% in your sector</p><p>3. Professional visibility<br>- Search appearances: +40%<br>- Mentions in posts: 25<br>- Recommendations received: 5</p><p>Suggestions to improve your visibility:</p><ul><li>Complete your 'Achievements' section</li><li>Share more technical content</li><li>Engage with your network more regularly</li></ul><p>Your profile is among the top 10% most viewed in your sector this month!</p>",
+                "cta": "View report"
+            }
+        },
+        {
+            "id": 3,
+            "subject": "🎵 Recommended Playlist",
+            "sender": "no-reply@spotify.com",
+            "date": "2024-01-05",
+            "size": "1.8 MB",
+            "category": "entertainment",
+            "shouldDelete": true,
+            "isNewsletter": true,
+            "unsubscribed": false,
+            "content": {
+                "title": "New personalized playlist",
+                "body": "<p>Hey! We've created a new playlist just for you!</p><p>Based on your recent listening, here's your Discovery Mix of the week:</p><ul><li>Arctic Monkeys - Do I Wanna Know?</li><li>The Strokes - Last Nite</li><li>Tame Impala - The Less I Know The Better</li><li>MGMT - Kids</li><li>Franz Ferdinand - Take Me Out</li></ul><p>This week, we've also added some similar artists you might like:</p><ul><li>The Kooks</li><li>Cage The Elephant</li><li>The Vaccines</li></ul><p>Your playlist will be updated weekly with new recommendations based on your taste.</p><p>This week, you listened to:<br>- 15 hours of music<br>- 245 different tracks<br>- 42 unique artists</p>",
+                "cta": "Listen now"
+            }
+        },
+        {
+            "id": 4,
+            "subject": "🔒 Security Alert",
+            "sender": "security@github.com",
+            "date": "2024-01-03",
+            "size": "1.2 MB",
+            "category": "security",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Suspicious activity detected",
+                "body": "<p>We detected an unusual login attempt to your account.</p><p>Login attempt details:</p><ul><li>Date: January 3, 2024, at 15:47 UTC</li><li>Location: Moscow, Russia</li><li>IP Address: 192.168.xxx.xxx</li><li>Browser: Chrome 120.0.0</li><li>Operating System: Windows 11</li></ul><p>Recommended actions:</p><ol><li>Change your password immediately</li><li>Enable two-factor authentication if not already done</li><li>Check recent login history</li><li>Revoke all access tokens</li></ol><p>If you don't recognize this activity, we recommend:</p><ul><li>Sign out of all active sessions</li><li>Review authorized applications</li><li>Update your recovery information</li></ul><p>Your account security is our priority. Don't hesitate to contact our support if you have any questions.</p>",
+                "cta": "Verify account"
+            }
+        },
+        {
+            "id": 5,
+            "subject": "📱 Your Mobile Bill",
+            "sender": "billing@verizon.com",
+            "date": "2024-01-01",
+            "size": "3.1 MB",
+            "category": "important",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "January 2024 Bill",
+                "body": "<p>Hello,</p><p>Your January 2024 bill is now available in your customer portal.</p><p>Bill summary:</p><ul><li>5G mobile plan: $19.99</li><li>Options:<ul><li>International: $5</li><li>Mobile insurance: $3</li></ul></li><li>Out-of-plan usage: $2.50</li><li>Total: $30.49</li></ul><p>Usage details:</p><ul><li>Data used: 12.5 GB out of 70 GB</li><li>Calls: 5h23</li><li>SMS/MMS: 145</li></ul><p>Payment will be processed on January 5, 2024.</p><p>Important information: Your contract ends next month. Check out our new offers in your customer portal.</p>",
+                "cta": "View bill"
+            }
+        },
+        {
+            "id": 6,
+            "subject": "🎮 New Update Available",
+            "sender": "updates@steam.com",
+            "date": "December 28, 2023",
+            "size": "5.2 MB",
+            "category": "entertainment",
+            "shouldDelete": true,
+            "isNewsletter": false,
+            "content": {
+                "title": "Game updates",
+                "body": "<p>Important updates are available for your favorite games, including bug fixes, performance improvements, and new features. Make sure to update your games for the best experience.</p>",
+                "cta": "View details"
+            }
+        },
+        {
+            "id": 7,
+            "subject": "💼 Order Confirmation",
+            "sender": "noreply@amazon.com",
+            "date": "December 25, 2023",
+            "size": "2.8 MB",
+            "category": "shopping",
+            "shouldDelete": true,
+            "isNewsletter": false,
+            "content": {
+                "title": "Your order is confirmed",
+                "body": "<p>Thank you for your order! Here's your purchase summary:</p><ul><li>Product: Bluetooth Earbuds</li><li>Price: $59.99</li><li>Estimated delivery: December 28, 2023</li></ul><p>You can track your order status and view delivery information directly from your Amazon account.</p>",
+                "cta": "Track order"
+            }
+        },
+        {
+            "id": 8,
+            "subject": "📚 Tax Receipt 2023",
+            "sender": "contact@irs.gov",
+            "date": "December 20, 2023",
+            "size": "1.5 MB",
+            "category": "important",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Your tax receipt",
+                "body": "<p>Your tax receipt for 2023 is now available. This document contains all necessary information for your administrative procedures and tax declarations. Please download and keep it in a safe place.</p>",
+                "cta": "Download"
+            }
+        },
+        {
+            "id": 9,
+            "subject": "🎬 Netflix News",
+            "sender": "info@netflix.com",
+            "date": "December 15, 2023",
+            "size": "4.2 MB",
+            "category": "entertainment",
+            "shouldDelete": true,
+            "isNewsletter": true,
+            "unsubscribed": false,
+            "content": {
+                "title": "New releases",
+                "body": "<p>Discover this month's new releases on Netflix! Dive into thrilling series like <i>'Manor Mystery'</i> and captivating movies like <i>'Midnight Escapees'</i>. Don't miss the latest trends and Netflix original content.</p>",
+                "cta": "See what's new"
+            }
+        },
+        {
+            "id": 10,
+            "subject": "💉 Vaccination Reminder",
+            "sender": "reminder@cdc.gov",
+            "date": "December 10, 2023",
+            "size": "1.1 MB",
+            "category": "health",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Vaccination reminder",
+                "body": "<p>To ensure optimal protection against diseases, it's important to get your vaccine booster. Check your health record or contact your doctor for more information.</p>",
+                "cta": "Book appointment"
+            }
+        },
+        {
+            "id": 11,
+            "subject": "🎁 50% OFF Sitewide!",
+            "sender": "promo@bestbuy.com",
+            "date": "December 5, 2023",
+            "size": "3.4 MB",
+            "category": "promotion",
+            "shouldDelete": true,
+            "isNewsletter": true,
+            "unsubscribed": false,
+            "content": {
+                "title": "Exceptional offers",
+                "body": "<p>Enjoy an incredible 50% off across our entire site! But hurry, this exceptional offer only lasts 24 hours. Make your purchases before it's too late!</p>",
+                "cta": "Shop now"
+            }
+        },
+        {
+            "id": 12,
+            "subject": "📋 Meeting Minutes",
+            "sender": "team@company.com",
+            "date": "December 1, 2023",
+            "size": "2.9 MB",
+            "category": "professional",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Project X Meeting Minutes",
+                "body": "<p>Here are the minutes from yesterday's meeting regarding Project X. It contains the topics discussed, decisions made, and next steps to follow. Please review to stay up to date.</p>",
+                "cta": "Read minutes"
+            }
+        },
+        {
+            "id": 13,
+            "subject": "🎯 Daily Deals",
+            "sender": "deals@aliexpress.com",
+            "date": "November 28, 2023",
+            "size": "4.8 MB",
+            "category": "promotion",
+            "shouldDelete": true,
+            "isNewsletter": true,
+            "unsubscribed": false,
+            "content": {
+                "title": "Deals of the day",
+                "body": "<p>Don't miss our best deals of the day on a wide selection of products at incredible prices. These offers are only available today!</p>",
+                "cta": "View deals"
+            }
+        },
+        {
+            "id": 14,
+            "subject": "🏦 Bank Statement",
+            "sender": "noreply@chase.com",
+            "date": "November 25, 2023",
+            "size": "1.3 MB",
+            "category": "financial",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Your account statement",
+                "body": "<p>Your November bank statement is now available. Log in to your customer portal to view your transaction details.</p>",
+                "cta": "View statement"
+            }
+        },
+        {
+            "id": 15,
+            "subject": "🎵 Your Discovery Mix",
+            "sender": "playlist@deezer.com",
+            "date": "November 20, 2023",
+            "size": "2.1 MB",
+            "category": "entertainment",
+            "shouldDelete": true,
+            "isNewsletter": false,
+            "content": {
+                "title": "Personalized mix",
+                "body": "<p>Discover your weekly music selection, tailored to your taste. Dive into new discoveries and your favorite tracks.</p>",
+                "cta": "Listen"
+            }
+        },
+        {
+            "id": 16,
+            "subject": "⚡ Electricity Bill",
+            "sender": "billing@conedison.com",
+            "date": "November 15, 2023",
+            "size": "1.7 MB",
+            "category": "important",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "November 2023 Bill",
+                "body": "<p>Your ConEdison bill for November is ready. Log in to your customer portal to view the details and process payment if needed.</p>",
+                "cta": "View bill"
+            }
+        },
+        {
+            "id": 17,
+            "subject": "🎮 Your Gift Card",
+            "sender": "reward@ubisoft.com",
+            "date": "November 10, 2023",
+            "size": "3.6 MB",
+            "category": "promotion",
+            "shouldDelete": true,
+            "isNewsletter": false,
+            "content": {
+                "title": "Gift card offered",
+                "body": "<p>A $10 gift card is waiting for your next purchases on our online store. Use it now to explore our exclusive games and products.</p>",
+                "cta": "Use now"
+            }
+        },
+        {
+            "id": 18,
+            "subject": "📝 Employment Contract",
+            "sender": "hr@company.com",
+            "date": "November 5, 2023",
+            "size": "2.4 MB",
+            "category": "professional",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Your contract",
+                "body": "<p>Please find attached your employment contract to sign. Make sure to read all clauses carefully before validating.</p>",
+                "cta": "Sign"
+            }
+        },
+        {
+            "id": 19,
+            "subject": "🎥 Your Series Continues!",
+            "sender": "series@primevideo.com",
+            "date": "November 1, 2023",
+            "size": "3.9 MB",
+            "category": "entertainment",
+            "shouldDelete": true,
+            "isNewsletter": false,
+            "content": {
+                "title": "New episode",
+                "body": "<p>The latest episode of your favorite series is finally available on Prime Video. Dive into the plot and discover what awaits you.</p>",
+                "cta": "Watch"
+            }
+        },
+        {
+            "id": 20,
+            "subject": "🔑 Password Change",
+            "sender": "security@google.com",
+            "date": "October 28, 2023",
+            "size": "1.0 MB",
+            "category": "security",
+            "shouldDelete": false,
+            "isNewsletter": false,
+            "content": {
+                "title": "Account security",
+                "body": "<p>We've recorded a recent change to your Google password. If you didn't initiate this action, please secure your account immediately.</p>",
+                "cta": "Verify"
+            }
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=1"
+        },
+        {
+            "id": 2,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=2"
+        },
+        {
+            "id": 3,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=3"
+        },
+        {
+            "id": 4,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=4"
+        },
+        {
+            "id": 5,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=5"
+        },
+        {
+            "id": 6,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=6"
+        },
+        {
+            "id": 7,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=7"
+        },
+        {
+            "id": 8,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=8"
+        },
+        {
+            "id": 9,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=9"
+        },
+        {
+            "id": 10,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=10"
+        },
+        {
+            "id": 11,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=11"
+        },
+        {
+            "id": 12,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=12"
+        },
+        {
+            "id": 13,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=13"
+        },
+        {
+            "id": 14,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=14"
+        },
+        {
+            "id": 15,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=15"
+        },
+        {
+            "id": 16,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=16"
+        },
+        {
+            "id": 17,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=17"
+        },
+        {
+            "id": 18,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=18"
+        },
+        {
+            "id": 19,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=19"
+        },
+        {
+            "id": 20,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=20"
+        },
+        {
+            "id": 21,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=21"
+        },
+        {
+            "id": 22,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=22"
+        },
+        {
+            "id": 23,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=23"
+        },
+        {
+            "id": 24,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=24"
+        },
+        {
+            "id": 25,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=25"
+        },
+        {
+            "id": 26,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=26"
+        },
+        {
+            "id": 27,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=27"
+        },
+        {
+            "id": 28,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=28"
+        },
+        {
+            "id": 29,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=29"
+        },
+        {
+            "id": 30,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=30"
+        },
+        {
+            "id": 31,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=31"
+        },
+        {
+            "id": 32,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=32"
+        },
+        {
+            "id": 33,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=33"
+        },
+        {
+            "id": 34,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=34"
+        },
+        {
+            "id": 35,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=35"
+        },
+        {
+            "id": 36,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=36"
+        },
+        {
+            "id": 37,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=37"
+        },
+        {
+            "id": 38,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=38"
+        },
+        {
+            "id": 39,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=39"
+        },
+        {
+            "id": 40,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=40"
+        },
+        {
+            "id": 41,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=41"
+        },
+        {
+            "id": 42,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=42"
+        },
+        {
+            "id": 43,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=43"
+        },
+        {
+            "id": 44,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=44"
+        },
+        {
+            "id": 45,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=45"
+        },
+        {
+            "id": 46,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=46"
+        },
+        {
+            "id": 47,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=47"
+        },
+        {
+            "id": 48,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=48"
+        },
+        {
+            "id": 49,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=49"
+        },
+        {
+            "id": 50,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=50"
+        },
+        {
+            "id": 51,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=51"
+        },
+        {
+            "id": 52,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=52"
+        },
+        {
+            "id": 53,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=53"
+        },
+        {
+            "id": 54,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=54"
+        },
+        {
+            "id": 55,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=55"
+        },
+        {
+            "id": 56,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=56"
+        },
+        {
+            "id": 57,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=57"
+        },
+        {
+            "id": 58,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=58"
+        },
+        {
+            "id": 59,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=59"
+        },
+        {
+            "id": 60,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=60"
+        },
+        {
+            "id": 61,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=61"
+        },
+        {
+            "id": 62,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=62"
+        },
+        {
+            "id": 63,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=63"
+        },
+        {
+            "id": 64,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=64"
+        },
+        {
+            "id": 65,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=65"
+        },
+        {
+            "id": 66,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=66"
+        },
+        {
+            "id": 67,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=67"
+        },
+        {
+            "id": 68,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=68"
+        },
+        {
+            "id": 69,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=69"
+        },
+        {
+            "id": 70,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=70"
+        },
+        {
+            "id": 71,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=71"
+        },
+        {
+            "id": 72,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=72"
+        },
+        {
+            "id": 73,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=73"
+        },
+        {
+            "id": 74,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=74"
+        },
+        {
+            "id": 75,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=75"
+        },
+        {
+            "id": 76,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=76"
+        },
+        {
+            "id": 77,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=77"
+        },
+        {
+            "id": 78,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=78"
+        },
+        {
+            "id": 79,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=79"
+        },
+        {
+            "id": 80,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=80"
+        },
+        {
+            "id": 81,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=81"
+        },
+        {
+            "id": 82,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=82"
+        },
+        {
+            "id": 83,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=83"
+        },
+        {
+            "id": 84,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=84"
+        },
+        {
+            "id": 85,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=85"
+        },
+        {
+            "id": 86,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=86"
+        },
+        {
+            "id": 87,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=87"
+        },
+        {
+            "id": 88,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=88"
+        },
+        {
+            "id": 89,
+            "type": "keep",
+            "path": "https://picsum.photos/100?random=89"
+        },
+        {
+            "id": 90,
+            "type": "delete",
+            "path": "https://picsum.photos/100?blur=10&random=90"
+        }
+    ]
+}
